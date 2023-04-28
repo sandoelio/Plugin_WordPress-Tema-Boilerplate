@@ -1,5 +1,5 @@
 # Plugin_WordPress-Tema-Boilerplate
-## Desenvolvimento do plugin para wordpresse retirado do curso (Codigo fonte)
+### Desenvolvimento do plugin para wordpresse retirado do curso (Codigo fonte)
 
 === My Youtube Recommendation === Colaboradores: Sandoélio Tags: youtube, vídeos, incorporar, influenciador, youtube-galeria Requer pelo menos: 4,7 Testado até: 5.4 Marca estável: 1.0.0 Licença: GPLv3 ou posterior URI da licença: https://www.gnu.org/licenses/gpl-3.0.html
 
